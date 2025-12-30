@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Muhammad Adnan
+# Adnan Here
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;.NET+%7C+Angular+%7C+SQL+Developer;Problem+Solver+%26+Fast+Learner;Building+Clean+%26+Scalable+Solutions)](https://git.io/typing-svg)
 
